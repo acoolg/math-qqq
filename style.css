@@ -1,0 +1,19 @@
+body {
+    background-color: #ffffff;
+    font-size: 50px;
+}
+.lnum {
+    margin-top: 20%;
+    text-align: left;
+}
+
+.rnum {
+    margin-top: -50px;
+    text-align: right;
+}
+
+button {
+    position: relative;
+    left: 50%;
+
+}
